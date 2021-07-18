@@ -1,3 +1,3 @@
-# Wikipedia_Scraper
+# Wikipedia Scraper
 
 Scraping Wiki Articles
